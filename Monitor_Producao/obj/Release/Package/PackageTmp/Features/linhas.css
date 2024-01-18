@@ -1,0 +1,247 @@
+﻿* {
+    font-family: sans-serif;
+}
+
+body {
+    background-color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: radial-gradient(rgba(128, 128, 128, 0.5) 2px, transparent 2px);
+    display: flex;
+    background-size: 12px 12px;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+
+.navbar {
+    height: 55px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar-text {
+    font-size: 30px;
+}
+
+.navbar-text-ponto {
+    color: #F84018;
+    font-size: 70px;
+}
+
+.titulo-linha {
+    background-color: white;
+    float: left;
+    width: 190px;
+    height: 169px;
+    min-width: 170px;
+    margin-right: 15px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    box-shadow: 0px 0px 15px #000000;
+     margin-bottom: 10px;
+}
+
+.SQDPK {
+    font-family: Arial Black;
+    font-size: 90px;
+    text-align: center;
+    line-height: 177px;
+}
+
+/*.logo-container {
+    width: 177px;
+    margin-left: 10px;
+}*/
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 65px 45px 35px 30px;
+}
+
+.dias {
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 50px;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btndia {
+    margin-bottom: 2px;
+    position: relative;
+    width: 45px;
+    height: 3.2%;
+    background-color: #737373;
+    border: none;
+    cursor: pointer;
+    color: white;
+}
+
+.mes {
+    margin-bottom: 2px;
+    position: relative;
+    width: 45px;
+    height: 3.2%;
+    background-color: #F84018;
+    border: none;
+    color: white;
+    margin-top: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btndia-selecionado {
+    margin-bottom: 2px;
+    position: relative;
+    width: 45px;
+    height: 3.2%;
+    background-color: #F84018;
+    border: none;
+    cursor: pointer;
+    color: white;
+}
+
+.btndia:hover {
+    background-color: #F84018;
+}
+
+.linha {
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    Width: 100%;
+    margin-bottom: -3px;
+}
+
+.box {
+    background-color: #737373;
+    float: left;
+    height: 170px;
+    width: 330px;
+    margin-right: 15px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 0px 0px 15px #000000;
+    margin-bottom: 10px;
+}
+
+.titulo {
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+.texto {
+    font-size: 80px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+.target {
+    font-size: 15px;
+    text-align: center;
+    color: white;
+}
+
+
+.cbolinha {
+    border-left: 0 none #000;
+    border-right: 0 none #000;
+    border-top: 0 none #000;
+    border-bottom: 1px solid #000;
+    background-color: transparent;
+    outline: none;
+    transition: all .3s ease-out;
+    border-radius: 0;
+    outline: none;
+    margin-left: 0px;
+    font-size: 30px;
+}
+
+    .cbolinha:hover {
+        border-left: 0 none #F84018;
+        border-right: 0 none #F84018;
+        border-top: 0 none #F84018;
+        border-bottom: 1px solid #F84018;
+    }
+
+@media (max-width: 1458px) {
+}
+
+@media (max-width: 1280px) {
+    .cbolinha {
+        font-size: 20px;
+    }
+
+    .navbar-text {
+        font-size: 20px;
+    }
+
+    .navbar-text-ponto {
+        font-size: 60px;
+    }
+}
+
+/**********************modal**********************/
+.modal {
+    display: none;
+    background-color: white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 0px 0 5000px #00000070;
+    border-radius: 10px;
+}
+
+.x {
+    top: -1px;
+    right: 9px;
+    position: fixed;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+    .x:hover {
+        color: #737373;
+    }
+
+.titulo_modal {
+    font-size: 28px;
+    font-weight: bold;
+    color: #F84018;
+}
+
+.texto_modal {
+    font-size: 20px;
+}

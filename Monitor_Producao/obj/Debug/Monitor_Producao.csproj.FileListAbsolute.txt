@@ -1,0 +1,70 @@
+c:\users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\roslyn\csc.exe
+c:\users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\roslyn\System.Collections.Immutable.dll
+c:\users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\roslyn\vbc.exe
+c:\users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\roslyn\VBCSCompiler.exe
+c:\users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\roslyn\VBCSCompiler.exe.config
+c:\users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\Monitor_Producao.dll.config
+c:\users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\Monitor_Producao.dll
+c:\users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\Monitor_Producao.pdb
+c:\users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\obj\Debug\Monitor_Producao.csprojResolveAssemblyReference.cache
+c:\users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\obj\Debug\Monitor_Producao.dll
+c:\users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\obj\Debug\Monitor_Producao.pdb
+C:\Users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\Microsoft.Owin.dll
+C:\Users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\Microsoft.Owin.Security.dll
+C:\Users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\Newtonsoft.Json.dll
+C:\Users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\Owin.dll
+C:\Users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\Microsoft.Owin.xml
+C:\Users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\Microsoft.Owin.Security.xml
+C:\Users\a9lfk1\documents\visual studio 2015\Projects\Monitor_Producao\Monitor_Producao\bin\Newtonsoft.Json.xml
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\roslyn\csc.exe
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\roslyn\vbc.exe
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\roslyn\VBCSCompiler.exe
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\Monitor_Producao.dll.config
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\Monitor_Producao.dll
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\Monitor_Producao.pdb
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\Microsoft.Owin.dll
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\Microsoft.Owin.Security.dll
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\Newtonsoft.Json.dll
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\Owin.dll
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\Microsoft.Owin.xml
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\Microsoft.Owin.Security.xml
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\bin\Newtonsoft.Json.xml
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\obj\Debug\Monitor_Producao.csprojResolveAssemblyReference.cache
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\obj\Debug\Monitor_Producao.dll
+C:\Users\a9lfk1\Desktop\Monitor_Producao\Monitor_Producao\obj\Debug\Monitor_Producao.pdb
