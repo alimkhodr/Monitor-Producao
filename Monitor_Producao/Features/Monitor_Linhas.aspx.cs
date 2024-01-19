@@ -10,7 +10,7 @@ namespace Monitor_Producao
 {
     public partial class Monitor_Linhas : System.Web.UI.Page
     {
-        SqlConnection conexaobd = new SqlConnection("server=10.251.24.11;database=SGM_ONE;uid=sa;pwd=P@ssw0rd");
+        SqlConnection conexaobd = new SqlConnection("sua_conexao");
         SqlCommand comandoSQL = new SqlCommand();
         SqlDataReader objDataReader;
         protected void Page_Load(object sender, EventArgs e)
